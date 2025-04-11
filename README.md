@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+### Vue - pinia, element-plus
+### React - RTK, mobx, bootstrap
+### TS, Tailwind
 <!--
 **AlisherAsd/AlisherAsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
