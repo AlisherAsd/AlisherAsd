@@ -1,4 +1,5 @@
 ## Hi there 👋 Vue / React dev
+### I am a 2nd year student at UUST, in my free time I study different technologies, I am interested in AI
 <!--
 **AlisherAsd/AlisherAsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
