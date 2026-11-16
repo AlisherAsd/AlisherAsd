@@ -45,3 +45,14 @@
   <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </p>
+
+---
+
+### 💼 Experience | Опыт работы
+
+<p align="left">
+  <img src="https://custom-icon-badges.demolab.com/badge/Ozon_Tech-005BFF?style=for-the-badge" alt="Ozon Tech" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThzjyJX3u2kPyaty8ZdooZ-P6qkUjEYqD5aL2yJR8Fng211Ukj1ww9dIwt&s=10" alt="ITCode" height="40"/>
+</p>
+
+---
